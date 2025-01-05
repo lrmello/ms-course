@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Configuring Eureka server">
+    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Configuring Eureka clients">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/example/hrworker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/example/hrworker/HrWorkerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736098717031</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Configuring Eureka clients">
+      <created>1736119358671</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736119358671</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +123,7 @@
     <MESSAGE value="Feign client" />
     <MESSAGE value="Ribbon load balancing" />
     <MESSAGE value="Configuring Eureka server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuring Eureka server" />
+    <MESSAGE value="Configuring Eureka clients" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuring Eureka clients" />
   </component>
 </project>
