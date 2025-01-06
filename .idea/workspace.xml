@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Configuring Zuul api gateway">
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Random port to hr-payroll">
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/example/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/example/hrworker/resources/WorkerResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736202432735</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Random port to hr-payroll">
+      <created>1736203111901</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736203111901</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +162,7 @@
     <MESSAGE value="Random port to hr-worker" />
     <MESSAGE value="Hystrix fault tolerance" />
     <MESSAGE value="Configuring Zuul api gateway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuring Zuul api gateway" />
+    <MESSAGE value="Random port to hr-payroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Random port to hr-payroll" />
   </component>
 </project>
