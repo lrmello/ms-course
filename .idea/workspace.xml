@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Random port to hr-worker">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Hystrix fault tolerance" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736119864788</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Hystrix fault tolerance">
+      <created>1736199803144</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736199803144</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +143,7 @@
     <MESSAGE value="Configuring Eureka server" />
     <MESSAGE value="Configuring Eureka clients" />
     <MESSAGE value="Random port to hr-worker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random port to hr-worker" />
+    <MESSAGE value="Hystrix fault tolerance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hystrix fault tolerance" />
   </component>
 </project>
