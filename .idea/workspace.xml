@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Private Git repository">
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/example/hruser/HrUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/example/hruser/HrUserApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Configuring hr-user project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736209056359</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Configuring hr-user project">
+      <created>1736285138900</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1736285138900</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,6 +293,7 @@
     <MESSAGE value="hr-worker as a config server client" />
     <MESSAGE value="Actuator for runtime config refresh" />
     <MESSAGE value="Private Git repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Private Git repository" />
+    <MESSAGE value="Configuring hr-user project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuring hr-user project" />
   </component>
 </project>
