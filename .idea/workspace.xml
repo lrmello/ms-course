@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Actuator for runtime config refresh" />
+    <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Private Git repository">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-config-server/src/main/java/com/example/hrconfigserver/HrConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-config-server/src/main/java/com/example/hrconfigserver/HrConfigServerApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/LRMello/Documents/GitHub/ms-course"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LRMello/Documents/GitHub/ms-course&quot;
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
@@ -256,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736208201158</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Private Git repository">
+      <created>1736209056359</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1736209056359</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,6 +286,7 @@
     <MESSAGE value="Configuring hr-config-server" />
     <MESSAGE value="hr-worker as a config server client" />
     <MESSAGE value="Actuator for runtime config refresh" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actuator for runtime config refresh" />
+    <MESSAGE value="Private Git repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Private Git repository" />
   </component>
 </project>

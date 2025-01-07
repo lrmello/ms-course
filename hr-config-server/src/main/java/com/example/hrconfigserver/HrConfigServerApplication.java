@@ -24,3 +24,4 @@ public class HrConfigServerApplication implements CommandLineRunner {
 	}
 
 }
+ 
