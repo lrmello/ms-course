@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f22890-2f18-4e0a-a8c4-9c74026da897" name="Changes" comment="Private Git repository">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-config-server/src/main/java/com/example/hrconfigserver/HrConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-config-server/src/main/java/com/example/hrconfigserver/HrConfigServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/example/hruser/HrUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/example/hruser/HrUserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
