@@ -8,7 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/example/hroauth/HrOauthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/example/hroauth/HrOauthApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/example/hroauth/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/example/hroauth/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/example/hroauth/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/example/hroauth/services/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
